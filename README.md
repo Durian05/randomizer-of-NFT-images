@@ -22,3 +22,5 @@ now you need to do the last thing, in the "Resources" folder you need to move al
 for example, in the hats folder I have all the caps of my future nft, if you want to upload your nfts to opensea after randomization and you need to save all the properties, then you need to name each picture with the real name of the property
 ![5](https://user-images.githubusercontent.com/64871099/150962064-9b51c21d-01ca-4f10-aa3b-bb08158cfeef.png)
 ![4](https://user-images.githubusercontent.com/64871099/150962131-bba561a8-48ee-4d5e-bdb0-015ed9d0b5b0.png)
+
+once you have added all the folders to the resources folder and renamed the images, if necessary, we can run
